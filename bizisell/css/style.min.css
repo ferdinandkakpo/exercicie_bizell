@@ -340,14 +340,13 @@ padding:10px;
   }
 
   .footer-social {
-
     margin-left: auto;
      margin-right:auto;
     list-style: none;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    padding-right:30px;
+    
 }
 
 
@@ -368,7 +367,7 @@ padding:10px;
 .card-title {
 color:#ffffff;
 font-size:28px;
-   
+   padding: 15px;
 }
 
 
@@ -385,6 +384,14 @@ margin-left: auto;
 margin-right: auto;
    
 }
+
+.form-inline {
+padding: 20px;
+
+
+   
+}
+
 
 
 
